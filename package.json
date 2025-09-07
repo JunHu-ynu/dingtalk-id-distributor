@@ -1,0 +1,7 @@
+{
+  "name": "dingtalk-id-distributor",
+  "version": "1.0.0",
+  "description": "钉钉ID分发系统",
+  "main": "index.js",
+  "dependencies": {}
+}
